@@ -1,16 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Fascinate+Inline|Poppins');
+
 h1{
     color: blue;
-    
+    background-color:gray;
 }
 
 h2{
     background-color: orange;
     color: white;
+    font-family: 'Fascinate Inline', cursive;
 }
 
 p{
     text-align:center;
-    
+    font-family: 'Poppins', sans-serif;
 }
 
 body{
